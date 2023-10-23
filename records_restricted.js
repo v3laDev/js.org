@@ -130,7 +130,7 @@ var cnames_restricted = [
     "js",
     "json",
     "l10n",
-    "learn(ing)",
+    "learn(ing)", // #8594
     "legal(s)",
     "lesson(s)",
     "libraries",
